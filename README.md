@@ -25,3 +25,15 @@ One of the major features of this project is the dynamic loading of questions. I
 The application also provides a polished user experience with clear navigation between questions and an attractive design. It demonstrates important JavaScript concepts such as DOM manipulation, event handling, arrays, objects, functions, conditional statements, and loops. These concepts are essential for building modern interactive web applications.
 
 Overall, this project successfully fulfills the objective of creating an interactive quiz application that is simple, responsive, and user-friendly. It provides users with dynamic questions, calculates scores automatically, and gives instant feedback after the quiz is completed. The project helped improve my understanding of front-end web development and strengthened my practical knowledge of JavaScript programming, making it an excellent learning experience during my internship.
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/88d3ad9a-fb3b-472b-a77e-61bb0f886781" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/469d9c78-b7c0-4a30-aa76-3b2679531be8" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/869c2bbc-d428-451f-b8ea-3f7ffc8889be" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd100af6-3cc1-4a39-a6bb-a3482069711e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c0e8a9dd-5b75-4e1e-a989-94015e126cc5" />
